@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2511020213301
+D Pressure Sensor 3.77PSI ~ 18.27PSI (26kPa ~ 126kPa) Absolute 24 b 10-WFLGA
+K
+F https://www.we-online.com/components/products/datasheet/2511020213301.pdf
+$ENDCMP
+#
+#End Doc Library
