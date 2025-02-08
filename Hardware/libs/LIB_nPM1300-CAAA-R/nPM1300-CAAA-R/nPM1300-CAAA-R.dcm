@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP nPM1300-CAAA-R
-D Battery Management Power Management IC (PMIC) with unique system management features, WLCSP
-K
-F https://infocenter.nordicsemi.com/pdf/nPM1300_PS_v1.0.pdf
-$ENDCMP
-#
-#End Doc Library
