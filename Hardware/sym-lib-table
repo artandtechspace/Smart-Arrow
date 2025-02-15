@@ -5,4 +5,5 @@
   (lib (name "nPM1300-CAAA-R")(type "KiCad")(uri "${KIPRJMOD}/libs/LIB_nPM1300-CAAA-R/nPM1300-CAAA-R/KiCad/nPM1300-CAAA-R.kicad_sym")(options "")(descr ""))
   (lib (name "636101111001")(type "KiCad")(uri "${KIPRJMOD}/libs/LIB_636101111001/636101111001/636101111001.kicad_sym")(options "")(descr ""))
   (lib (name "ANT016008LCS2442MA1")(type "KiCad")(uri "${KIPRJMOD}/libs/LIB_ANT016008LCS2442MA1/ANT016008LCS2442MA1/ANT016008LCS2442MA1.kicad_sym")(options "")(descr ""))
+  (lib (name "AP7312-1233FM-7")(type "KiCad")(uri "${KIPRJMOD}/libs/LIB_AP7312-1233FM-7/AP7312-1233FM-7.kicad_sym")(options "")(descr ""))
 )

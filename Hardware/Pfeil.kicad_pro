@@ -498,6 +498,7 @@
     "netclass_assignments": {
       "/FEEL": "kleiner",
       "/I2C_SCL": "RF",
+      "/I2C_SCL ": "RF",
       "Net-(C26-Pad1)": "kleiner",
       "Net-(U1A-ANT)": "kleiner"
     },
